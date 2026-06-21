@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "Dallas Electrician Experts",
+    "shortName": "Dallas Electrician",
+    "tagline": "Your Trusted Dallas Electricians for Residential & Commercial Service",
+    "niche": "Electrician",
+    "phone": "(214) 617-4142",
+    "address": "12330 Preston Rd, Dallas, TX 75230",
+    "city": "Dallas, TX",
+    "hours": "Mon-Sun: 7:00 AM – 9:00 PM",
+    "ctaLabel": "Schedule Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Dallas Electrician Experts | Top-Rated Electricians in Dallas, TX",
+    "description": "Dallas Electrician Experts offers professional electrical services in Dallas, TX. From repairs to installations, our licensed electricians deliver safe, reliable solutions. Call (214) 617-4142."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Premium Electrical Services",
+      "headline": "Expert Electricians You Can Trust in Dallas, TX",
+      "subheadline": "24/7 emergency service, fast response times, and guaranteed workmanship for your home or business.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call (214) 617-4142"
+    },
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Jobs Completed"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "99%",
+        "label": "Satisfaction Rate"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential Electrical",
+        "title": "Safe & Reliable Home Electrical Services",
+        "body": "From flickering lights to full rewiring, our electricians handle all residential needs with precision and care. We prioritize safety and code compliance in every project.",
+        "bullets": [
+          "Panel upgrades & troubleshooting",
+          "Outlet & switch installation",
+          "Lighting design & installation",
+          "Whole-home surge protection"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Licensed & Insured",
+        "cardBody": "Every electrician is fully licensed, bonded, and insured for your protection."
+      },
+      {
+        "eyebrow": "Commercial Electrical",
+        "title": "Powering Dallas Businesses with Expertise",
+        "body": "Minimize downtime with our commercial electrical solutions. We work around your schedule to keep your operations running smoothly.",
+        "bullets": [
+          "New construction wiring",
+          "Data & low-voltage cabling",
+          "Emergency generator hookups",
+          "Energy-efficient lighting retrofits"
+        ],
+        "reverse": true,
+        "cardLabel": "Efficiency",
+        "cardTitle": "Fast Turnaround",
+        "cardBody": "We complete commercial projects on time and within budget, with minimal disruption."
+      }
+    ],
+    "whyTitle": "Why Choose Dallas Electrician Experts?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured",
+        "description": "Our team holds all required Texas licenses and full insurance for your peace of mind."
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "No hidden fees. We provide clear, written estimates before any work begins."
+      },
+      {
+        "title": "Same-Day Service",
+        "description": "Need help now? We offer same-day appointments for urgent electrical issues."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "We stand behind our work. If you're not happy, we'll make it right."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "They rewired my entire home quickly and left everything spotless. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Homeowner in Preston Hollow"
+      },
+      {
+        "quote": "Professional, on time, and fixed my breaker panel in under an hour. Fair price too.",
+        "author": "James L.",
+        "role": "Small Business Owner in Uptown"
+      },
+      {
+        "quote": "The team was courteous and explained everything. I finally have no flickering lights!",
+        "author": "Emily R.",
+        "role": "Mother in Lakewood"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Solve Your Electrical Problems?",
+      "subheadline": "Call us or book online for fast, friendly service from Dallas's top electricians.",
+      "primaryCta": "Schedule Now",
+      "secondaryCta": "Call (214) 617-4142"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Dallas Electrician Experts, we offer a full spectrum of electrical services for homes and businesses in Dallas, TX. Our experienced electricians combine technical skill with exceptional customer care."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Electrical Repairs & Troubleshooting",
+      "shortDescription": "Fast diagnosis and repair of outlets, switches, breakers, and more.",
+      "longDescription": "Flickering lights, dead outlets, or tripping breakers? Our electricians quickly identify the root cause and perform safe, lasting repairs. We handle everything from minor fixes to complex wiring issues.",
+      "benefits": [
+        "Same-day service available",
+        "Accurate diagnosis with advanced tools",
+        "Transparent pricing with no surprises",
+        "Warranty on all repairs"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We inspect the issue and explain the problem and solution."
+        },
+        {
+          "title": "Repair",
+          "description": "Our electrician performs the repair safely and efficiently."
+        },
+        {
+          "title": "Test & Verify",
+          "description": "We test everything to ensure proper function and safety."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How quickly can you respond to an emergency?",
+          "answer": "We offer same-day service for most emergencies. Call us and we'll dispatch an electrician as soon as possible."
+        },
+        {
+          "question": "Do you charge for estimates?",
+          "answer": "No, we provide free estimates for all repair work. You'll know the cost upfront."
+        }
+      ],
+      "slug": "electrical-repairs-troubleshooting"
+    },
+    {
+      "icon": "02",
+      "title": "Panel Upgrades & Electrical Service",
+      "shortDescription": "Upgrade your electrical panel for safety, capacity, and modern needs.",
+      "longDescription": "Older panels can be a fire hazard and limit your home's electrical capacity. We install new panels and upgrade service to handle modern appliances, electronics, and HVAC systems.",
+      "benefits": [
+        "Increased safety and reduced fire risk",
+        "Supports new appliances and additions",
+        "Code-compliant installation",
+        "Energy efficiency improvements"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate your current panel and load requirements."
+        },
+        {
+          "title": "Installation",
+          "description": "Our team installs the new panel with minimal downtime."
+        },
+        {
+          "title": "Inspection",
+          "description": "We perform a full safety check and coordinate any required inspections."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I need a panel upgrade?",
+          "answer": "Signs include frequent breaker trips, flickering lights, or using many high-power devices. We can do a free assessment."
+        },
+        {
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most residential upgrades are completed in 4-8 hours, depending on complexity."
+        }
+      ],
+      "slug": "panel-upgrades-electrical-service"
+    },
+    {
+      "icon": "03",
+      "title": "Lighting Installation & Design",
+      "shortDescription": "Transform your space with custom indoor and outdoor lighting solutions.",
+      "longDescription": "From elegant chandeliers to energy-efficient LEDs and landscape lighting, we design and install lighting that enhances your property's beauty, security, and functionality.",
+      "benefits": [
+        "Custom design tailored to your style",
+        "Energy-saving LED options",
+        "Enhanced curb appeal and security",
+        "Professional installation with clean finish"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your vision, needs, and budget."
+        },
+        {
+          "title": "Design & Product Selection",
+          "description": "We recommend fixtures and create a layout plan."
+        },
+        {
+          "title": "Installation",
+          "description": "Our electricians install everything neatly and safely."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install outdoor lighting for security?",
+          "answer": "Yes, we specialize in motion-sensor lights, floodlights, and landscape lighting to improve safety."
+        },
+        {
+          "question": "Do you supply the light fixtures?",
+          "answer": "We can source fixtures or install ones you provide. We'll help you choose quality options."
+        }
+      ],
+      "slug": "lighting-installation-design"
+    },
+    {
+      "icon": "04",
+      "title": "Commercial Electrical Services",
+      "shortDescription": "Reliable electrical solutions for businesses, offices, and retail spaces.",
+      "longDescription": "We understand the demands of commercial properties. Our team provides new construction wiring, data cabling, emergency backup systems, and ongoing maintenance to keep your business powered.",
+      "benefits": [
+        "Minimal disruption to operations",
+        "Certified for commercial codes",
+        "Scalable solutions for growth",
+        "24/7 emergency support"
+      ],
+      "process": [
+        {
+          "title": "Site Survey",
+          "description": "We assess your facility and electrical needs."
+        },
+        {
+          "title": "Proposal",
+          "description": "We provide a detailed quote and project timeline."
+        },
+        {
+          "title": "Execution",
+          "description": "Our crew works efficiently to complete the job on schedule."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer maintenance contracts?",
+          "answer": "Yes, we offer ongoing maintenance plans to keep your electrical systems safe and efficient."
+        },
+        {
+          "question": "Can you work after hours?",
+          "answer": "Absolutely. We schedule work around your business hours to avoid downtime."
+        }
+      ],
+      "slug": "commercial-electrical-services"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Trusted Electricians Since 2009",
+    "mission": "To provide safe, reliable, and affordable electrical services with a focus on customer satisfaction and craftsmanship.",
+    "story": [
+      "Dallas Electrician Experts was founded by a team of master electricians who saw a need for honest, high-quality electrical work in the Dallas area. What started as a small operation has grown into a full-service electrical company serving thousands of homes and businesses. Our commitment to training, safety, and customer care has earned us a reputation as one of the most trusted electrical contractors in Dallas.",
+      "Today, we continue to uphold the same values: transparent pricing, punctuality, and superior workmanship. Every job, big or small, receives the same attention to detail. We're proud to be a local, family-owned business that treats every customer like a neighbor."
+    ],
+    "highlight": {
+      "stat": "15+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Safety First",
+        "description": "We never compromise on safety. Our team follows strict protocols to protect your property and family."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest advice, fair pricing, and doing what we say. No upsells, no surprises."
+      },
+      {
+        "title": "Excellence",
+        "description": "We take pride in our work and strive for perfection in every installation and repair."
+      },
+      {
+        "title": "Community",
+        "description": "As a local business, we support our neighbors and give back to the Dallas community."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Dallas Electrician Experts",
+    "subheadline": "Ready to start your project? Call us or fill out the form for a free estimate.",
+    "primaryCta": "Call (214) 617-4142",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Preston Hollow",
+      "Lakewood",
+      "Uptown",
+      "Oak Lawn",
+      "North Dallas"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Electrician",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2146174142",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
